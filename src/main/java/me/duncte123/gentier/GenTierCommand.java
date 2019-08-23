@@ -23,9 +23,6 @@ public class GenTierCommand implements CommandExecutor {
         this.message = message;
 
         this.permsList = new ArrayList<>(tierMap.keySet());
-//        Collections.reverse(this.permsList);
-
-        System.out.println(this.permsList);
     }
 
     @Override
