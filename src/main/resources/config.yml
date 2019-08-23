@@ -1,10 +1,19 @@
 # Placeholders are
 # {tier} for the tier that you enter in the permissions list
-# {perm} for the permission that it needs
 # {name} The playername
 
 message: "&8[&fPandaGen&8]&f Your ore generator is currently level {tier}"
 
+defaultTier: 1
+
 permissions:
-  - perm: ""
-    tier:
+  - perm: "oregen.tier2"
+    tier: 2
+  - perm: "oregen.tier3"
+    tier: 3
+  - perm: "oregen.tier4"
+    tier: 4
+  - perm: "oregen.tier5"
+    tier: 5
+  - perm: "oregen.tier6"
+    tier: 6

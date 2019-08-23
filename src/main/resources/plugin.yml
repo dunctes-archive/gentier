@@ -4,6 +4,7 @@ main: me.duncte123.gentier.GenTier
 author: duncte123
 commands:
     gentier:
+      usage: "Only players can use this command" # Hack so we can just return false
       aliases:
         - cobblegentier
         - cobblecheck
