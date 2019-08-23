@@ -1,0 +1,10 @@
+# Placeholders are
+# {tier} for the tier that you enter in the permissions list
+# {perm} for the permission that it needs
+# {name} The playername
+
+message: "&8[&fPandaGen&8]&f Your ore generator is currently level {tier}"
+
+permissions:
+  - perm: ""
+    tier:

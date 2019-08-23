@@ -1,0 +1,10 @@
+name: GenTier
+version: "1.0"
+main: me.duncte123.gentier.GenTier
+author: duncte123
+commands:
+    gentier:
+      aliases:
+        - cobblegentier
+        - cobblecheck
+        - generatortier
